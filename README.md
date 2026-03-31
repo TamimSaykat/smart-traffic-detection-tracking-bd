@@ -11,12 +11,20 @@
   <img src="https://img.shields.io/badge/Framework-Python-f59e0b?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://retrorides.me/CSE-445-Assignment-1/">
+    <img src="https://img.shields.io/badge/Live-Dashboard-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## Overview
 
 **Bangladesh Traffic ODT** is a computer vision pipeline for **object detection** and **multi-object tracking** in dense, unstructured Bangladesh traffic environments.  
 It covers the full workflow from **annotation conversion** and **data preprocessing** to **model training**, **tracking**, and **performance analysis**.
+
+🔗 **Live Dashboard:** [View Project Dashboard](https://retrorides.me/CSE-445-Assignment-1/)
 
 ---
 
